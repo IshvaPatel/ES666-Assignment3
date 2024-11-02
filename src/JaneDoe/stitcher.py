@@ -42,3 +42,4 @@ class PanaromaStitcher():
     
     def do_something_more(self):
         return None
+    
